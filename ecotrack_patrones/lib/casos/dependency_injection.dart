@@ -73,4 +73,3 @@ class _PantallaLabState extends State<PantallaLab> {
     );
   }
 }
-
